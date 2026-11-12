@@ -2,8 +2,8 @@
 
 **GML Reader** to proste i szybkie narzędzie desktopowe stworzone dla rzeczoznawców majątkowych, geodetów oraz analityków rynku nieruchomości. Program pozwala na błyskawiczną konwersję plików ewidencyjnych **GML z Rejestru Cen Nieruchomości (RCN)** do przejrzystych arkuszy **Microsoft Excel (.xlsx)** – bez konieczności instalowania i obsługi skomplikowanych systemów GIS (takich jak QGIS).
 
-🔗 **Oficjalna strona programu i pełna instrukcja:** [gml-reader.pages.dev](https://gml-reader.pages.dev)
-📥 **Pobierz najnowszą wersję:** Przejdź do zakładki [Releases](https://github.com) lub pobierz ze strony głównej.
+🔗 **Oficjalna strona programu i pełna instrukcja:** [gml-reader](https://gml-reader.pages.dev)
+📥 **Pobierz najnowszą wersję:** Przejdź do zakładki [Releases](https://github.com/nikodemJokiel/gml-reader-rcn-excel/releases) lub pobierz ze strony głównej.
 
 ---
 
@@ -28,7 +28,7 @@ Oprócz standardowych plików **GML** zgodnych ze schematami aplikacyjnymi RCWiN
 
 ## Jak otworzyć plik GML z RCWiN w Excelu? (Instrukcja)
 
-1. Pobierz instalator z sekcji [Releases](https://github.com) lub ze strony [gml-reader.pages.dev](https://gml-reader.pages.dev).
+1. Pobierz instalator z sekcji [Releases](https://github.com/nikodemJokiel/gml-reader-rcn-excel/releases) lub ze strony [gml-reader](https://gml-reader.pages.dev/download).
 2. Uruchom program **GML Reader** na komputerze z systemem Windows.
 3. Wybierz pobrany z powiatu plik `.gml` (lub cały folder z plikami).
 4. Dostosuj kolejność i widoczność kolumn według własnych preferencji w zakładce **Kolmny Excela**.
@@ -44,5 +44,5 @@ Program działa w modelu freemium. Możesz go pobrać i używać całkowicie za 
 
 Program jest stale aktualizowany i dostosowywany do zmian w strukturach plików GML publikowanych przez poszczególne starostwa powiatowe. Jeśli program nie wczytuje pliku z Twojego regionu lub potrzebujesz dodatkowej kolumny w eksporcie, skontaktuj się z autorem:
 
-* **Strona WWW:** [gml-reader.pages.dev](https://gml-reader.pages.dev)
+* **Strona WWW:** [gml-reader](https://gml-reader.pages.dev)
 * **E-mail:** jokiel.nikodem@gmail.com
