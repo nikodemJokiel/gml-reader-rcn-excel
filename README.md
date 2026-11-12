@@ -3,7 +3,8 @@
 **GML Reader** to proste i szybkie narzędzie desktopowe stworzone dla rzeczoznawców majątkowych, geodetów oraz analityków rynku nieruchomości. Program pozwala na błyskawiczną konwersję plików ewidencyjnych **GML z Rejestru Cen Nieruchomości (RCN)** do przejrzystych arkuszy **Microsoft Excel (.xlsx)** – bez konieczności instalowania i obsługi skomplikowanych systemów GIS (takich jak QGIS).
 
 🔗 **Oficjalna strona programu i pełna instrukcja:** [gml-reader](https://gml-reader.pages.dev)
-📥 **Pobierz najnowszą wersję:** Przejdź do zakładki [Releases](https://github.com/nikodemJokiel/gml-reader-rcn-excel/releases) lub pobierz ze strony głównej.
+
+📥 **Pobierz najnowszą wersję:** Przejdź do zakładki [Releases](https://github.com/nikodemJokiel/gml-reader-rcn-excel/releases) lub pobierz ze [strony głównej](https://gml-reader.pages.dev/download).
 
 ---
 
